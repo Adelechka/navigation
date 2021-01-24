@@ -13,3 +13,5 @@
 09. Sockets (https://github.com/Adelechka/sockets)
 10. Сделать AnnotationProcessing (https://github.com/Adelechka/Annotations-SOURCE)
 11. CSRF и постоянное хранилище сессий ()
+
+> Семестровка (https://github.com/Adelechka/simple_web-application/tree/semester_work)
