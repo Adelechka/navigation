@@ -14,7 +14,7 @@
 10. Сделать AnnotationProcessing (https://github.com/Adelechka/Annotations-SOURCE)
 11. CSRF и постоянное хранилище сессий ( <br>
         servlet (тут как user используется класс client): https://github.com/Adelechka/csrf_servlet <br>
-        spring mvc (https://github.com/Adelechka/simple_web-application/commit/b14b7af406db0177df89b772d9f36938d3e8f4a7): <br> 
+        spring mvc (встроено в семестровку): https://github.com/Adelechka/simple_web-application/commit/b14b7af406db0177df89b772d9f36938d3e8f4a7 <br> 
         )
 
 > Семестровка (https://github.com/Adelechka/simple_web-application/tree/semester_work)
