@@ -12,8 +12,8 @@
 08. Сделать Web-приложение со страницами на Freemarker (2-3) страницы (https://github.com/Adelechka/simple_web-application/commit/bdfea7d6796b8f51b7ac808dcb209b6ef9c83fcb)
 09. Sockets (https://github.com/Adelechka/sockets)
 10. Сделать AnnotationProcessing (https://github.com/Adelechka/Annotations-SOURCE)
-11. CSRF и постоянное хранилище сессий (
-        servlet (тут как user используется класс client): https://github.com/Adelechka/csrf_servlet
+11. CSRF и постоянное хранилище сессий ( <br>
+        servlet (тут как user используется класс client): https://github.com/Adelechka/csrf_servlet <br>
         spring mvc (): 
         )
 
